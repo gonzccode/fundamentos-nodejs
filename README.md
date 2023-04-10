@@ -2,13 +2,13 @@
 Repositorio para practicar los conceptos básicos de NodeJs
 
 ### git comands
-add .gitignore
-git init 
-git remote -v
-git remote add origin link-repo
-git branch -M main
-git pull origin main --allow-unre / git merge ...
-git status
-git add .
-git commit -m 'message'
-git push origin main
+1. add .gitignore
+2. git init 
+3. git remote -v
+4. git remote add origin link-repo
+5. git branch -M main
+6. git pull origin main --allow-unre / git merge ...
+7. git status
+8. git add .
+9. git commit -m 'message'
+10. git push origin main
